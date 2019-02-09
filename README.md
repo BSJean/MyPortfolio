@@ -1,5 +1,6 @@
 ## About me
 [linkedin](https://www.linkedin.com/in/ivangordeichik/?locale=en_US)
+
 I'm an engineer-technologist at JSC "Peleng". 
 
 ### Interests

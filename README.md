@@ -1,7 +1,7 @@
 ## About me
 
 I'm an engineer-technologist at JSC "Peleng" I love Sonya, because she good, kind, never offends me.
-t
+
 ### Interests
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

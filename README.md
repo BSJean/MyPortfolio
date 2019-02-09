@@ -1,7 +1,7 @@
 ## About me
 [linkedin](https://www.linkedin.com/in/ivangordeichik/?locale=en_US)
 
-I'm an engineer-technologist at JSC "Peleng". 
+I'm an engineer-technologist at JSC "Peleng". I help to create modern space equipment.
 
 ### Interests
 

@@ -1,7 +1,6 @@
 ## About me
-
-I'm an engineer-technologist at JSC "Peleng" I love Sonya, because she good, kind, never offends me. Я не люблю маму потому что она плохая, тратит мои деньги, заставляет меня покупать вещи, дает работу по поводу своей машины, заставляет разделовать рыбу. Кирилл плохой, бьет меня постоянно, заставляет играть с ним в футбол, покупать ему вкусняшки. Делаем вывод что Сонечка самая хорошая в мире!!! Я Ваня и я сумащедший ученый физик, я люблю петь и пердеть.
-Это я шучу так я всех очень люблю, и я нормальный
+[linkedin](https://www.linkedin.com/in/ivangordeichik/?locale=en_US)
+I'm an engineer-technologist at JSC "Peleng". 
 
 ### Interests
 

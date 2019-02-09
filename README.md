@@ -1,5 +1,5 @@
 ## About me
-[linkedin](https://www.linkedin.com/in/ivangordeichik/?locale=en_US)
+[![linkedin](Logo-2C-21px-TM.png)](https://www.linkedin.com/in/ivangordeichik/?locale=en_US)
 
 I'm an engineer-technologist at JSC "Peleng". I help to create modern space equipment.
 

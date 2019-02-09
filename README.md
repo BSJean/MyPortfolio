@@ -1,6 +1,6 @@
 ## About me
 
-I'm an engineer-technologist at JSC "Peleng".
+I'm an engineer-technologist at JSC "Peleng"
 
 ### Markdown
 

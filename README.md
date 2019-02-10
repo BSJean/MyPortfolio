@@ -2,6 +2,11 @@
 [![linkedin](Logo-2C-21px-TM.png)](https://www.linkedin.com/in/ivangordeichik/en?trk=public_profile_locale_name)
 
 I'm an engineer-technologist at JSC "Peleng". I help to create modern space equipment.
+Took part in the development and implementation of such technological processes as
+  - heat removal from circuit board elements,
+  - installation of a carrying mirror on three supports,
+  - mechanical processing of carbon fiber constructions.
+
 
 ### Interests
 

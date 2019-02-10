@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: Welcome to Ivan Gordeichik's page!
 description: This is a Ivan Gordeichik's portfolio!
-<picture>photo.jpg</picture>
+photo: <picture>photo.jpg</picture>

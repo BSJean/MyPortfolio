@@ -17,3 +17,5 @@ Took part in the development and implementation of such technological processes 
 
 
 ## My works
+
+[codewars](https://www.codewars.com/users/BSJean/badges/micro)

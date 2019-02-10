@@ -10,7 +10,8 @@ Took part in the development and implementation of such technological processes 
 
 ## Interests
 
-**Travels.** I like to travel to interesting places both in Belarus and in other countries. I always try to plan the route myself.
+**Traveling around the world.** I like to travel to interesting places both in Belarus and in other countries. I always try to plan the route myself.
+**Do sport.** I love sports. My favorite kinds are orienteering, running and football.
 
 ```markdown
 Syntax highlighted code block

@@ -1,4 +1,4 @@
-## About me
+# About me
 [![linkedin](Logo-2C-21px-TM.png)](https://www.linkedin.com/in/ivangordeichik/en?trk=public_profile_locale_name)
 
 I'm an engineer-technologist at JSC "Peleng". I help to create modern space equipment.
@@ -8,9 +8,9 @@ Took part in the development and implementation of such technological processes 
   - mechanical processing of carbon fiber constructions.
 
 
-### Interests
+## Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Travels.** I like to travel to interesting places both in Belarus and in other countries. I always try to plan the route myself.
 
 ```markdown
 Syntax highlighted code block

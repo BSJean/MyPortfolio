@@ -23,3 +23,5 @@ Took part in the development and implementation of such technological processes 
 [PadawansTask1](https://github.com/BSJean/PadawansTask1)
 
 [PadawansTask2](https://github.com/BSJean/PadawansTask2)
+
+[PadawansTask3](https://github.com/BSJean/PadawansTask3)

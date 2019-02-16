@@ -31,3 +31,7 @@ Took part in the development and implementation of such technological processes 
 [PadawansTask5](https://github.com/BSJean/PadawansTask5)
 
 [PadawansTask6](https://github.com/BSJean/PadawansTask6)
+
+[FancyCalc](https://github.com/BSJean/FancyCalc)
+
+[PadawansTask7](https://github.com/BSJean/PadawansTask7)

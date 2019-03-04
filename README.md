@@ -47,3 +47,5 @@ Took part in the development and implementation of such technological processes 
 [PadawansTask12](https://github.com/BSJean/PadawansTask12)
 
 [FibonacciNumbers](https://github.com/BSJean/FibonacciNumbers) (task from Grow.by)
+
+[Tic Tac Toe game with AI mode](https://github.com/BSJean/TicTacToe) (task from Grow.by)
